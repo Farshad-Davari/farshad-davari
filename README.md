@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">
+💥Farshad Davari💥
+</h1>
 
-<!--
-**farshad-davari/farshad-davari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+  Software Engineer | React JS Developer | Python & Django Developer 
+</h2>  
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class Farshad():
+    
+  def __init__(self):
+    self.name = "Farshad Davari"
+    self.username = "farshad-davari"
+    self.location = "Iran, Tehran"
+    
+  def __str__(self):
+    return self.name
+if __name__ == '__main__':
+    me = Farshad()
+```

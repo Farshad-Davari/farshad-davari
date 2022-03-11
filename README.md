@@ -38,3 +38,10 @@ if __name__ == '__main__':
   <img src="https://img.shields.io/badge/Django-My%20Backend%20Mate-red">
   <img src="https://img.shields.io/badge/HTML%20%26%20CSS-The%20Magic%20Tools-ff69b4">
 </div>
+
+</br>
+</br>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farshad-davari&theme=great-gatsby&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats">
+</p>

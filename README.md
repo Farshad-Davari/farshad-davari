@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  Software Engineer & Master of Computer Science 
+  Web Developer & Master of Computer Science 
 </h2>  
 
 </br>

@@ -30,11 +30,11 @@ if __name__ == '__main__':
   <img src="https://img.shields.io/badge/Blockchain-The%20Master's%20Thesis-purple/?style=for-the-badge&logo=appveyor">
   </br>
   </br>
-  <img src="https://img.shields.io/badge/React%20JS-My%20Expert-red/?style=for-the-badge&logo=appveyor">
-  <img src="https://img.shields.io/badge/Javascript-King%20of%20the%20Web-yellow/?style=for-the-badge&logo=appveyor">
+  <img src="https://img.shields.io/badge/Javascript-My%20First%20Language-yellow">
+  <img src="https://img.shields.io/badge/Python-My%20Second%20Language-blue">
   </br>
   </br>
-  <img src="https://img.shields.io/badge/Python-Main%20Language-blue">
-  <img src="https://img.shields.io/badge/Django-My%20Backend%20Mate-green">
-  <img src="https://img.shields.io/badge/HTML%20%26%20CSS-The%20Magic%20Tools-orange">
+  <img src="https://img.shields.io/badge/React%20JS-My%20Expert-purple">
+  <img src="https://img.shields.io/badge/Django-My%20Backend%20Mate-red">
+  <img src="https://img.shields.io/badge/HTML%20%26%20CSS-The%20Magic%20Tools-ff69b4">
 </div>

@@ -1,20 +1,20 @@
 <h1 align="center">
 💥Farshad Davari💥
 </h1>
-
-<h2 align="center">
-  Web Developer & Master of Computer Science 
-</h2>  
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer&center=true"></a>
+</p>  
 
 </br>
 
 ```python
-class Farshad():
+class Farshad:
     
   def __init__(self):
     self.name = "Farshad Davari"
     self.username = "farshad-davari"
     self.location = "Iran, Tehran"
+    self.message = "Talk is cheap. Show me the code!"
     
   def __str__(self):
     return self.name

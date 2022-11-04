@@ -31,11 +31,8 @@ if __name__ == '__main__':
   </br>
   </br>
   <img src="https://img.shields.io/badge/Javascript-My%20First%20Language-yellow">
-  <img src="https://img.shields.io/badge/Python-My%20Second%20Language-blue">
   </br>
   </br>
-  <img src="https://img.shields.io/badge/React%20JS-My%20Expert-purple">
-  <img src="https://img.shields.io/badge/Django-My%20Backend%20Mate-red">
   <img src="https://img.shields.io/badge/HTML%20%26%20CSS-The%20Magic%20Tools-ff69b4">
 </div>
 

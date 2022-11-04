@@ -33,7 +33,7 @@ if __name__ == '__main__':
   <img src="https://img.shields.io/badge/HTML%20%26%20CSS-The%20Magic%20Tools-ff69b4">
   </br>
   </br>
-  <img src="https://img.shields.io/badge/Javascript-My%20First%20Language-yellow">
+  <img src="https://img.shields.io/badge/Javascript-My%20Best%20Language-yellow">
 </div>
 
 </br>

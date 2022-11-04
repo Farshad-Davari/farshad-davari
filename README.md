@@ -2,7 +2,7 @@
 💥Farshad Davari💥
 </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer&center=true"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer&center=true"></a>
 </p>  
 
 </br>
@@ -30,10 +30,10 @@ if __name__ == '__main__':
   <img src="https://img.shields.io/badge/Blockchain-The%20Master's%20Thesis-purple/?style=for-the-badge&logo=appveyor">
   </br>
   </br>
-  <img src="https://img.shields.io/badge/Javascript-My%20First%20Language-yellow">
-  </br>
-  </br>
   <img src="https://img.shields.io/badge/HTML%20%26%20CSS-The%20Magic%20Tools-ff69b4">
+  </br>
+  </br>
+  <img src="https://img.shields.io/badge/Javascript-My%20First%20Language-yellow">
 </div>
 
 </br>

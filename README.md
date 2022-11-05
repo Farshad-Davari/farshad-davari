@@ -29,10 +29,11 @@ if __name__ == '__main__':
   <h2>My Skills : </h2>
   </br>
   </br>
-  <img src="https://img.shields.io/badge/HTML%20%26%20CSS%20%26%20JAVASCRIPT-The%20Magic%20Tools-ff69b4">
+  <img src="https://img.shields.io/badge/HTML%20%26%20CSS%20%26%20JAVASCRIPT-ff69b4">
   </br>
   </br>
-  <img src="https://img.shields.io/badge/Javascript-My%20Best%20Language-yellow">
+  <img src="https://img.shields.io/badge/ReactJS-blue">
+  <img src="https://img.shields.io/badge/Django%20%26Flask-blue">
 </div>
 
 </br>

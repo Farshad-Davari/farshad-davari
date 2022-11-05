@@ -33,7 +33,10 @@ if __name__ == '__main__':
   </br>
   </br>
   <img src="https://img.shields.io/badge/ReactJS-blue">
-  <img src="https://img.shields.io/badge/Django%20%26Flask-blue">
+  <img src="https://img.shields.io/badge/DJANGO%20%26%20FLASK-blue">
+  </br>
+  </br>
+  <img src="https://img.shields.io/badge/RUST-red">
 </div>
 
 </br>

@@ -2,7 +2,7 @@
 💥Farshad Davari💥
 </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Programmer&center=true"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=web developer&center=true"></a>
 </p>  
 
 </br>
@@ -32,8 +32,7 @@ if __name__ == '__main__':
   <img src="https://img.shields.io/badge/HTML%20%26%20CSS%20%26%20JAVASCRIPT-ff69b4">
   </br>
   </br>
-  <img src="https://img.shields.io/badge/REACTJS-blue">
-  <img src="https://img.shields.io/badge/DJANGO%20%26%20FLASK-blue">
+  <img src="https://img.shields.io/badge/VUEJS-blue">
   </br>
   </br>
 </div>

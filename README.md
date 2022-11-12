@@ -24,20 +24,6 @@ if __name__ == '__main__':
 ```
 
 </br>
-
-<div align="center">
-  <h2>My Skills : </h2>
-  </br>
-  </br>
-  <img src="https://img.shields.io/badge/HTML%20%26%20CSS%20%26%20JAVASCRIPT-ff69b4">
-  </br>
-  </br>
-  <img src="https://img.shields.io/badge/VUEJS-blue">
-  </br>
-  </br>
-</div>
-
-</br>
 </br>
 
 <p align="center">

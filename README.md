@@ -7,20 +7,22 @@
 
 </br>
 
-```python
-class Farshad:
-    
-  def __init__(self):
-    self.name = "Farshad Davari"
-    self.username = "farshad-davari"
-    self.location = "Iran, Tehran"
-    self.message = "Talk is cheap. Show me the code!"
-    
-  def __str__(self):
-    return self.name
-    
-if __name__ == '__main__':
-    me = Farshad()
+```go
+package main
+
+import (
+  "fmt"
+  "success"
+  "hard work"
+  "passion"
+)
+
+var programmer string = "Farshad Davari"
+
+func main() {
+  jobPosition := "Blockchain Developer"
+  fmt.Println(programmer + " is a " + jobPosition) 
+}
 ```
 
 </br>
